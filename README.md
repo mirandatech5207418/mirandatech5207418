@@ -1,212 +1,167 @@
 <div align="center">
 
-# 👋 Olá, eu sou Gabriela Miranda
+# Gabriela Miranda
 
 ### Backend Developer • C# • .NET • AWS
 
-<p>
-Desenvolvedora Back-End apaixonada por criar APIs modernas, escaláveis e bem estruturadas utilizando o ecossistema .NET.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Backend+Developer;C%23+Developer;.NET+Developer;AWS+Certified+Cloud+Practitioner;Always+Learning"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=C%23+Developer;Backend+Developer;ASP.NET+Core;AWS+Cloud+Practitioner;Always+Learning+New+Technologies" />
+<br>
+
+<a href="https://www.linkedin.com/in/gabriela-miranda-4061ba16/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:mirandatech.5207418@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 </div>
 
 ---
 
-# 👩‍💻 Sobre mim
+# 👩🏻‍💻 Sobre mim
 
-Sou desenvolvedor (a) Back-End com foco em **C#**, **.NET** e desenvolvimento de APIs REST.
+Desenvolvedora Back-End com foco em C#, .NET e desenvolvimento de APIs REST.
 
-Atualmente estou construindo meu portfólio em .NET, aprofundando conhecimentos em arquitetura de software, computação em nuvem e boas práticas de desenvolvimento.
+Graduada em **Gestão da Tecnologia da Informação** e em **Análise e Desenvolvimento de Sistemas**, além de pós-graduada em **Desenvolvimento Full Stack**.
 
----
+AWS Certified Cloud Practitioner.
 
-# 🎯 Objetivo
-
-Busco oportunidades como **Desenvolvedora .NET**, contribuindo para projetos que valorizem qualidade de código, aprendizado contínuo e colaboração em equipe.
+Tenho interesse em arquitetura de software, cloud computing e boas práticas de desenvolvimento.
 
 ---
 
-# 🛠️ Stack Principal
+# 🚀 Tech Stack
 
-### Linguagens
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,docker,postgres,mysql,aws" />
 
----
-
-### Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
-
----
-
-### Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
----
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🏆 Certificações
-
-✅ AWS Certified Cloud Practitioner
-
-🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
-
-🎓 Pós-graduação em Desenvolvimento Full Stack
-
-💜 Bootcamp .NET – RDI Software
-
-💙 DIO – .NET com GitHub Copilot
-
----
-
-# 🚀 Portfólio em Construção
-
-Estou desenvolvendo uma coleção de projetos para demonstrar conhecimentos em desenvolvimento Back-End.
-
-## Projetos Planejados
-
-🟡 Customer API
-
-ASP.NET Core + Entity Framework + SQL Server
-
----
-
-🟡 Hotel Management API
-
-C# + PostgreSQL + Docker
-
----
-
-🟡 Authentication API
-
-JWT + Identity
-
----
-
-🟡 AWS S3 Upload API
-
-.NET + Amazon S3
-
----
-
-🟡 Clean Architecture API
-
-Arquitetura em Camadas + SOLID
+</div>
 
 ---
 
 # 📚 Atualmente estudando
 
-✔ ASP.NET Core
+<div align="center">
 
-✔ Entity Framework Core
+<img src="https://skillicons.dev/icons?i=dotnet,docker,aws,postgres" />
 
-✔ SQL Server
+</div>
 
-✔ PostgreSQL
+- ASP.NET Core
 
-✔ Docker
+- Entity Framework Core
 
-✔ AWS
+- SQL Server
 
-✔ Clean Architecture
+- Clean Architecture
 
-✔ Design Patterns
+- SOLID
 
-✔ Testes Unitários
-
-✔ APIs REST
+- APIs REST
 
 ---
 
-# 📈 GitHub
+# 🎓 Formação
 
-<p align="center">
+🎓 Gestão da Tecnologia da Informação
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+🎓 Análise e Desenvolvimento de Sistemas
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+🎓 Pós-graduação em Desenvolvimento Full Stack
 
 ---
 
-<p align="center">
+# 🏆 Certificações
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+☁️ AWS Certified Cloud Practitioner
 
-</p>
+💜 Bootcamp .NET — RDI Software
 
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-
-</p>
+💙 DIO — .NET + GitHub Copilot
 
 ---
 
+# 🌎 Idiomas
 
+🇧🇷 Português
 
-# 💼 Experiência que agrega valor
+🇺🇸 Inglês
 
-Minha trajetória profissional anterior desenvolveu competências que considero essenciais para tecnologia:
-
-- Comunicação
-- Organização
-- Trabalho em equipe
-- Resolução de problemas
-- Atendimento ao cliente
-- Visão de negócio
-- Responsabilidade
-
+🇪🇸 Espanhol
 
 ---
 
-# 📫 Vamos nos conectar?
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💡 Princípios
+
+✔ Aprendizado contínuo
+
+✔ Código limpo
+
+✔ Resolução de problemas
+
+✔ Trabalho em equipe
+
+✔ Evolução constante
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="mailto:mirandatech.5207418@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+
 </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/gabriela-miranda-4061ba16/">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigada pela visita!
+⭐ Obrigada pela visita!
 
-*"A tecnologia evolui todos os dias. Eu também."*
+<img src="https://cdn.simpleicons.org/github/ffffff" width="18"/>
+
+Gosto de gatos.
 
 </div>
