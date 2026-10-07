@@ -1,35 +1,34 @@
-<div align="center">
-
 # 👋 Olá, eu sou Gabriela Miranda
 
-### ☕ Desenvolvedora Back-End | Java | APIs REST | SQL | Cloud
+### 💻 Desenvolvedora Back-End | C# | .NET | Java | APIs REST 
 
 **Transformando problemas em soluções e estudo em código.**
-
-</div>
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em **Desenvolvimento Back-End**, atualmente com foco em **Java**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em **Desenvolvimento Back-End**, atualmente com foco principal no ecossistema **C# e .NET**, além de desenvolver meus conhecimentos em **Java**.
 
-Gosto de ir além do código funcionando: procuro entender **por que uma solução foi estruturada daquela forma**, como as responsabilidades são separadas, como uma API se comunica com outras partes do sistema e como podemos tornar uma aplicação mais organizada, segura e fácil de evoluir.
+Gosto de ir além do código funcionando: procuro entender **por que uma solução foi estruturada daquela forma**, como as responsabilidades são separadas, como uma API se comunica com outras partes do sistema e como podemos tornar uma aplicação mais organizada, segura, testável e fácil de evoluir.
 
 Minha trajetória combina **formação acadêmica, bootcamps, projetos práticos e aprendizado contínuo**.
 
-🎯 Atualmente busco oportunidades como **Desenvolvedora Back-End Java Júnior**.
+🎯 Atualmente busco oportunidades como **Desenvolvedora Back-End Júnior**, especialmente com **C#/.NET**, sem deixar de explorar oportunidades com Java.
 
 ---
 
-## ☕ Meu foco atual
+## 💻 Meu foco atual
 
-```java
-public class Gabriela {
+```csharp
+public class Gabriela
+{
+    public string Role { get; set; } = "Backend Developer";
 
-    String role = "Backend Developer";
-
-    String[] focus = {
+    public string[] Focus { get; set; } =
+    {
+        "C#",
+        ".NET",
         "Java",
         "REST APIs",
         "SQL",
@@ -38,38 +37,34 @@ public class Gabriela {
         "Testing"
     };
 
-    String mission =
+    public string Mission { get; set; } =
         "Transformar conhecimento em software que resolva problemas reais.";
 }
 ```
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### ☕ Foco principal
+### 🔷 Foco principal
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**C# • .NET • APIs REST • SQL**
+
+### ☕ Desenvolvimento complementar
+
+**Java • Programação Orientada a Objetos • APIs REST**
 
 ### 🧰 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**Git • GitHub • Postman • Swagger/OpenAPI • Visual Studio • IntelliJ IDEA**
 
-### 🔹 Conhecimentos complementares
+### ☁️ Cloud
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+**AWS • Fundamentos de Cloud Computing**
 
 ---
 
-# 🚀 O que você encontrará por aqui
+## 🚀 O que você encontrará por aqui
 
 Meu GitHub representa meu processo de evolução como desenvolvedora.
 
@@ -77,19 +72,20 @@ Não quero apenas acumular repositórios.
 
 Quero construir projetos que me façam compreender cada vez melhor:
 
-- ☕ desenvolvimento Back-End com Java;
-- 🔌 criação e consumo de APIs REST;
-- 🧩 Programação Orientada a Objetos;
-- 🗄️ persistência e modelagem de dados;
-- 🏗️ arquitetura e organização de aplicações;
-- 🧪 testes e qualidade de software;
-- 🔐 construção de aplicações mais robustas e seguras;
-- ☁️ fundamentos de Cloud Computing;
-- 🤖 integração entre software e Inteligência Artificial.
+🔷 desenvolvimento Back-End com **C# e .NET**;  
+☕ desenvolvimento Back-End com **Java**;  
+🔌 criação e consumo de **APIs REST**;  
+🧩 **Programação Orientada a Objetos**;  
+🗄️ persistência e modelagem de dados;  
+🏗️ arquitetura e organização de aplicações;  
+🧪 testes e qualidade de software;  
+🔐 construção de aplicações mais robustas e seguras;  
+☁️ fundamentos de Cloud Computing;  
+🤖 integração entre software e Inteligência Artificial.
 
 ---
 
-# 🧠 Como eu gosto de aprender
+## 🧠 Como eu gosto de aprender
 
 ```text
 Problema
@@ -113,15 +109,21 @@ Para mim, aprender programação não é decorar sintaxe.
 
 É chegar ao ponto de conseguir responder:
 
-**“Por que você resolveu o problema dessa maneira?”**
+> **“Por que você resolveu o problema dessa maneira?”**
 
 ---
 
-# 🎓 Formação & Desenvolvimento
+## 🎓 Formação & Desenvolvimento
 
 ### 📚 Análise e Desenvolvimento de Sistemas
 
-Formação acadêmica voltada para desenvolvimento e tecnologia.
+Formação acadêmica voltada para desenvolvimento de software e tecnologia.
+
+### 🔷 Desenvolvimento Back-End
+
+Tenho direcionado meus estudos e projetos para o desenvolvimento Back-End, principalmente utilizando:
+
+**C# • .NET • APIs REST • SQL • POO • Testes • Arquitetura**
 
 ### ☕ Elas + Tech — Trilha Back-End
 
@@ -143,92 +145,88 @@ Também participo da comunidade de tecnologia como **Embaixadora DIO Campus Expe
 
 ---
 
-# 🤖 Software + Inteligência Artificial
+## 🤖 Software + Inteligência Artificial
 
 Além do desenvolvimento Back-End, tenho interesse especial na integração entre **software tradicional e Inteligência Artificial**.
 
 Tenho estudado temas como:
 
-`LLMs` • `RAG` • `NLP` • `Agentes Inteligentes` • `Automação` • `Microsoft Copilot`
+**LLMs • RAG • NLP • Agentes Inteligentes • Automação • Microsoft Copilot**
 
 Meu objetivo não é apenas utilizar IA como ferramenta de produtividade.
 
-Quero compreender **como integrá-la a aplicações e processos reais**.
+Quero compreender **como integrá-la a aplicações, APIs e processos reais**.
 
 ---
 
-# 🌱 Atualmente estudando
+## 🌱 Atualmente estudando
 
 ```text
-Java
+C# / .NET
  ├── Programação Orientada a Objetos
+ ├── ASP.NET Core
  ├── APIs REST
  ├── Arquitetura
  ├── Persistência de Dados
  ├── Testes
  └── Boas Práticas
 
+Java
+ ├── Fundamentos
+ ├── Programação Orientada a Objetos
+ ├── APIs REST
+ └── Resolução de Problemas
+
 Backend
  ├── SQL
  ├── Integração de Sistemas
- ├── Git
+ ├── Git / GitHub
  └── Cloud
 
 IA
  ├── LLMs
  ├── RAG
- ├── Agentes
+ ├── NLP
+ ├── Agentes Inteligentes
  └── Automação
 ```
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
-<div align="center">
+Aqui compartilho projetos, estudos e experimentos que mostram minha evolução técnica e meu processo de aprendizado.
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirandatech5207418&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirandatech5207418&layout=compact&hide_border=true)
-
-</div>
+**Mais importante do que apenas mostrar código, quero conseguir explicar as decisões que existem por trás dele.**
 
 ---
 
-# 🎯 Meu objetivo
+## 🎯 Meu objetivo
 
-Estou construindo uma base sólida para iniciar minha carreira profissional como **Desenvolvedora Back-End Java**.
+Estou construindo uma base sólida para iniciar e desenvolver minha carreira profissional como **Desenvolvedora Back-End**.
 
-Busco uma oportunidade Júnior onde eu possa:
+Meu foco principal atualmente é **C#/.NET**, mantendo Java como uma tecnologia importante na minha formação.
 
-**aprender → contribuir → receber feedback → evoluir → assumir desafios maiores.**
+Busco uma oportunidade **Júnior** onde eu possa:
+
+**aprender → contribuir → receber feedback → evoluir → assumir desafios maiores**
 
 Não quero apenas saber utilizar frameworks.
 
-Quero entender os fundamentos que existem por trás deles e me tornar uma desenvolvedora capaz de **construir, explicar e evoluir uma solução**.
+Quero entender os fundamentos que existem por trás deles e me tornar uma desenvolvedora capaz de **construir, testar, explicar e evoluir uma solução**.
 
 ---
 
-# 🤝 Vamos conversar?
+## 🤝 Vamos conversar?
 
-Estou aberta a oportunidades, projetos e conexões na área de tecnologia.
+Estou aberta a **oportunidades, projetos e conexões na área de tecnologia**.
 
 Especialmente para posições envolvendo:
 
-**Java • Back-End • APIs REST • SQL • Cloud**
+### 🔷 C# • .NET • Back-End • APIs REST • SQL • Java • Cloud
 
-### LinkedIn
+**LinkedIn:** Gabriela Miranda
 
-**Gabriela Miranda**
+☕ **Code. Learn. Build. Improve.**
 
-https://www.linkedin.com/in/gabriela-miranda-4061ba16/
-
----
-
-<div align="center">
-
-### ☕ Code. Learn. Build. Improve.
-
-**Um commit de cada vez. 🚀**
-
-</div>
+🚀 *Um commit de cada vez.*
